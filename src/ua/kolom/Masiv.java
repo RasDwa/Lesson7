@@ -21,6 +21,7 @@ public class Masiv {
             sort(x);
             System.out.println(Arrays.toString(x));
         }
+        System.out.println();
 
 
     }
